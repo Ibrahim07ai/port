@@ -116,7 +116,7 @@ a button:hover{
         display:block;
     }
 
-    .nav_bar ul li{
+    .nav_bar ul li a{
         display:block;
         list-style-type:none;
         margin-left: 0px;
